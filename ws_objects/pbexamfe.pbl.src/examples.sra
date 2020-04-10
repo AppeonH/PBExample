@@ -42,7 +42,7 @@ end variables
 
 global type examples from application
 string appname = "examples"
-string themepath = "C:\Program Files (x86)\sybase\Shared\PowerBuilder\theme190"
+string themepath = "C:\Program Files (x86)\appeon\Shared\PowerBuilder\theme190"
 string themename = "Flat Design Blue"
 boolean nativepdfvalid = false
 boolean nativepdfincludecustomfont = false
@@ -50,7 +50,7 @@ string nativepdfappname = ""
 long richtextedittype = 2
 long richtexteditversion = 1
 string richtexteditkey = ""
-string appicon = "Pbex.ico"
+string appicon = ".\Pbex.ico"
 end type
 global examples examples
 
